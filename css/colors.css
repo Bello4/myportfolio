@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+.waxon_tm_settings .colors li a.black{background-color: #333;}
+.waxon_tm_settings .colors li a.white{background-color: #e5e5e5;}
+.waxon_tm_settings .colors li a.olive{background-color: #666d41;}
+
+
+
+
+.waxon_tm_all_wrap[data-color="black"] .waxon_tm_hero .content_inner h3{color: #000;}
+.waxon_tm_all_wrap[data-color="black"] .waxon_tm_hero .content_inner h3.stroke{-webkit-text-stroke: 1px #000;color: transparent;}
+body.dark .waxon_tm_all_wrap[data-color="black"] .waxon_tm_hero .content_inner h3{color: #fff;}
+body.dark .waxon_tm_all_wrap[data-color="black"] .waxon_tm_hero .content_inner h3.stroke{-webkit-text-stroke: 1px #fff;color: transparent;}
+.waxon_tm_all_wrap[data-color="black"] .waxon_tm_about .name h3{color: #000;}
+.waxon_tm_all_wrap[data-color="black"] .waxon_tm_button a{background-color: #000;border-color: #000;}
+.waxon_tm_all_wrap[data-color="black"] .waxon_tm_button a:hover{background-color: transparent;}
+.waxon_tm_all_wrap[data-color="black"] .waxon_tm_service ul li .svg{color: #000;}
+.waxon_tm_all_wrap[data-color="black"] .waxon_tm_portoflio .portfolio_inner ul li .list_inner .title h3 a:hover{color: #000;}
+.waxon_tm_all_wrap[data-color="black"] .waxon_tm_testimonials .quote_list ul li .svg{color: #000;}
+.waxon_tm_all_wrap[data-color="black"] .waxon_tm_news .news_inner ul li .details .title a:hover{color: #000;}
+.waxon_tm_all_wrap[data-color="black"] .waxon_tm_topbar .menu .links ul li a:hover{color: #000;}
+.waxon_tm_all_wrap[data-color="black"] .waxon_tm_portoflio .portfolio_filter ul li a.current{color: #000;}
+.waxon_tm_all_wrap[data-color="black"] .cursor-inner.cursor-hover{background-color: #000;}
+.waxon_tm_all_wrap[data-color="black"] .cursor-outer{border-color: #000;}
+.waxon_tm_all_wrap[data-color="black"] .cursor-inner{background-color: #000;}
+.waxon_tm_all_wrap[data-color="black"] .waxon_tm_topbar .menu .links ul li.current a{color: #000;}
+
+
+.waxon_tm_all_wrap[data-color="white"] .waxon_tm_hero .content_inner h3{color: #fff;}
+.waxon_tm_all_wrap[data-color="white"] .waxon_tm_hero .content_inner h3.stroke{-webkit-text-stroke: 1px #fff;color: transparent;}
+.waxon_tm_all_wrap[data-color="white"] .waxon_tm_about .name h3{color: #fff;}
+.waxon_tm_all_wrap[data-color="white"] .waxon_tm_button a{background-color: #fff;border-color: #fff;}
+.waxon_tm_all_wrap[data-color="white"] .waxon_tm_button a:hover{background-color: transparent;}
+.waxon_tm_all_wrap[data-color="white"] .waxon_tm_service ul li .svg{color: #fff;}
+.waxon_tm_all_wrap[data-color="white"] .waxon_tm_portoflio .portfolio_inner ul li .list_inner .title h3 a:hover{color: #fff;}
+.waxon_tm_all_wrap[data-color="white"] .waxon_tm_testimonials .quote_list ul li .svg{color: #fff;}
+.waxon_tm_all_wrap[data-color="white"] .waxon_tm_news .news_inner ul li .details .title a:hover{color: #fff;}
+.waxon_tm_all_wrap[data-color="white"] .waxon_tm_topbar .menu .links ul li a:hover{color: #fff;}
+.waxon_tm_all_wrap[data-color="white"] .waxon_tm_portoflio .portfolio_filter ul li a.current{color: #fff;}
+.waxon_tm_all_wrap[data-color="white"] .cursor-inner.cursor-hover{background-color: #fff;}
+.waxon_tm_all_wrap[data-color="white"] .cursor-outer{border-color: #fff;}
+.waxon_tm_all_wrap[data-color="white"] .cursor-inner{background-color: #fff;}
+.waxon_tm_all_wrap[data-color="white"] .waxon_tm_topbar .menu .links ul li.current a{color: #fff;}
